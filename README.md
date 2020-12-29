@@ -59,13 +59,13 @@ URI约定 （REST 风格）
 	
 效果展示
 --------
-![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/master/images/index.PNG)
-![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/master/images/add.PNG)
-![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/master/images/edit.PNG)
+![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/main/images/index.PNG)
+![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/main/images/add.PNG)
+![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/main/images/edit.PNG)
 
 系统结构
 --------
-![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/master/images/arch.PNG)
+![](https://github.com/YiyiSmile/SSM-BOOTSTRAP-CRUD/blob/main/images/arch.PNG)
 
 
 
